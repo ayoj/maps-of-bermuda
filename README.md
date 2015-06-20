@@ -1,4 +1,4 @@
-# Bermuda Maps
+# Maps of Bermuda
 
 **Non-commercial Use Only / Crown Copyright Restrictions May Apply**
 
