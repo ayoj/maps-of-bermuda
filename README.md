@@ -14,6 +14,7 @@
 
 - [QGis](http://qgis.org/en/site/) 2.8.x w/ [GDAL](http://www.gdal.org/) 1.11.x 
 - [topojson](https://github.com/mbostock/topojson)
+- [Land Valuation Scraper](https://github.com/Bermuda-io/land-valuation-scraper)
 
 ## Other Resources
 
