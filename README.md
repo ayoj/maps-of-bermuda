@@ -8,6 +8,7 @@
 - **parishes** - Administrative divisions of Bermuda
 - **derelict buildings** - Location of derelict buildings
 - **ruins** - Location of ruins
+- **land-valuation.csv** - Extract of valuation units from Land Valuation Department website
 
 ## Tools used to produce this work
 
