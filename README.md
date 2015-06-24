@@ -9,6 +9,7 @@
 - **derelict buildings** - Location of derelict buildings
 - **ruins** - Location of ruins
 - **land-valuation.csv** - Extract of valuation units from Land Valuation Department website as of June 22, 2015
+- **general-elections-2012-with-bye-election-2014.csv** - General Election 2012 Results and amended to reflect result from Bye-Election in 2014
 
 ## Tools used to produce this work
 
